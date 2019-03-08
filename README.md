@@ -2,7 +2,9 @@
 
 https://github.com/Microsoft/tfs-cli/blob/master/docs/buildtasks.md
 
+
 ```
+az extension add --name azure-devops
 az devops
 ```
 https://github.com/Microsoft/azure-devops-cli-extension
